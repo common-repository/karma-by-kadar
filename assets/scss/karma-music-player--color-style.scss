@@ -1,0 +1,354 @@
+// karma-by-kadar--color-style.scss
+// by Kadar Claudiu
+// https://karma.kadarclaudiu.ro/
+
+.karma-by-kadar {
+	&__simple-player {
+		&--blue {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--blue;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--blue;
+						}
+						.ui-slider-handle {
+							background: $karma-color--blue;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--blue;
+							}
+							.ui-slider-handle {
+								background: $karma-color--blue;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--blue;
+					}
+				}
+			}
+		}
+		&--red {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--red;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--red;
+						}
+						.ui-slider-handle {
+							background: $karma-color--red;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--red;
+							}
+							.ui-slider-handle {
+								background: $karma-color--red;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--red;
+					}
+				}
+			}
+		}
+		&--pink {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--pink;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--pink;
+						}
+						.ui-slider-handle {
+							background: $karma-color--pink;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--pink;
+							}
+							.ui-slider-handle {
+								background: $karma-color--pink;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--pink;
+					}
+				}
+			}
+		}
+		&--green {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--green;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--green;
+						}
+						.ui-slider-handle {
+							background: $karma-color--green;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--green;
+							}
+							.ui-slider-handle {
+								background: $karma-color--green;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--green;
+					}
+				}
+			}
+		}
+		&--yellow {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--yellow;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--yellow;
+						}
+						.ui-slider-handle {
+							background: $karma-color--yellow;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--yellow;
+							}
+							.ui-slider-handle {
+								background: $karma-color--yellow;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--yellow;
+					}
+				}
+			}
+		}
+		&--gray {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--gray;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--gray;
+						}
+						.ui-slider-handle {
+							background: $karma-color--gray;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--gray;
+							}
+							.ui-slider-handle {
+								background: $karma-color--gray;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--gray;
+					}
+				}
+			}
+		}
+		&--black {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--black;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--black;
+						}
+						.ui-slider-handle {
+							background: $karma-color--black;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--black;
+							}
+							.ui-slider-handle {
+								background: $karma-color--black;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--black;
+					}
+				}
+			}
+		}
+		&--cyan {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--cyan;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--cyan;
+						}
+						.ui-slider-handle {
+							background: $karma-color--cyan;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--cyan;
+							}
+							.ui-slider-handle {
+								background: $karma-color--cyan;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--cyan;
+					}
+				}
+			}
+		}
+		&--teal {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--teal;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color--teal;
+						}
+						.ui-slider-handle {
+							background: $karma-color--teal;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color--teal;
+							}
+							.ui-slider-handle {
+								background: $karma-color--teal;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--teal;
+					}
+				}
+			}
+		}
+		&--white {
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						i {
+							color: $karma-color--white;
+						}
+						&:after {
+							background: $karma-color-dark;
+						}
+					}
+					&__seekbar {
+						.ui-slider-range {
+							background: $karma-color-dark;
+						}
+						.ui-slider-handle {
+							background: $karma-color-dark;
+						}
+					}
+					&__volume {
+						&__seekbar {
+							.ui-slider-range {
+								background: $karma-color-dark;
+							}
+							.ui-slider-handle {
+								background: $karma-color-dark;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						background: $karma-color--white;
+						i {
+							color: $karma-color-dark;
+						}
+					}
+				}
+			}
+		}
+	}
+}

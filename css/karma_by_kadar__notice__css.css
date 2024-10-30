@@ -1,0 +1,9 @@
+/* karma_by_kadar__notice__css.css */
+/* by Kadar Claudiu */
+/* 1.0.0 */
+/* This file will be included in WordPress admin panel when the notice is visible. */
+
+.notice--karma .button i {
+	position: relative;
+	top: 3px;
+}

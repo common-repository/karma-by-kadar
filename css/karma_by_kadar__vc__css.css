@@ -1,0 +1,12 @@
+/* karma_by_kadar__vc__css.css */
+/* by Kadar Claudiu */
+/* 1.0.0 */
+/* This file will be included in WordPress admin panel when Visual Composer is in use. */
+
+.vc_icon-vc-karma {
+	display: block;
+}
+
+.vc_icon-vc-karma {
+	background-image: url('../icons/vc-karma-icon.svg');
+}
